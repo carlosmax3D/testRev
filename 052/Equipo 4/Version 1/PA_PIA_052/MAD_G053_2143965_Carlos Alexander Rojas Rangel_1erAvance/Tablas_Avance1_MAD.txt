@@ -1,0 +1,155 @@
+CREATE DATABASE PIA_MAD
+USE PIA_MAD
+
+
+-- tabla Usuario 
+CREATE TABLE Usuarios (
+    IDUsr INT IDENTITY(1,1) PRIMARY KEY,
+    Rol VARCHAR(50) NOT NULL,
+    Nombre VARCHAR(100) NOT NULL,
+    Correo VARCHAR(100) NOT NULL,
+    Contrasena VARCHAR(100) NOT NULL,
+    NumNomina VARCHAR(50) NOT NULL,
+    FechaHoraReg DATETIME NOT NULL,
+    FechaNac DATE NULL
+);
+
+-- tabla Cliente
+CREATE TABLE Clientes (
+    IDCts INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre VARCHAR(100) NOT NULL,
+    Domicilio VARCHAR(255) NOT NULL,
+    RFC VARCHAR(20) NOT NULL,
+    Correo VARCHAR(100) NOT NULL,
+    Telefono_de_Celular VARCHAR(20) NULL, 
+    Telefono_de_Casa VARCHAR(20) NULL, 
+    FechaNac DATE NULL,
+    IDUsr INT NOT NULL, -- FK 
+    CONSTRAINT FK_Cliente_Usuario FOREIGN KEY (IDUsr) REFERENCES Usuarios(IDUsr)
+);
+
+-- tabla Estadio 
+CREATE TABLE Estadios (
+    IDEst INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre VARCHAR(100) NOT NULL,
+    Ciudad VARCHAR(100) NOT NULL,
+    CapacidadTotal INT NOT NULL,
+    Mapa VARCHAR(255) NOT NULL,
+    IDUsr INT NOT NULL, -- FK 
+    CONSTRAINT FK_Estadio_Usuario FOREIGN KEY (IDUsr) REFERENCES Usuarios(IDUsr)
+);
+
+-- tabla Partido 
+CREATE TABLE Partidos (
+    IDEvnt INT IDENTITY(1,1) PRIMARY KEY, 
+    Estado VARCHAR(50) NOT NULL,
+    FechaHora DATETIME NOT NULL,
+    IDEst INT NOT NULL, -- FK 
+    CONSTRAINT FK_Partido_Estadio FOREIGN KEY (IDEst) REFERENCES Estadios(IDEst)
+);
+
+-- tabla Zona 
+CREATE TABLE Zonas (
+    IDZona INT IDENTITY(1,1) PRIMARY KEY,
+    NomZona VARCHAR(100) NOT NULL,
+    PrecioBase DECIMAL(10,2) NOT NULL,
+    Cupo INT NOT NULL,
+    IDEst INT NOT NULL, -- FK 
+    CONSTRAINT FK_Zona_Estadio FOREIGN KEY (IDEst) REFERENCES Estadios(IDEst)
+);
+
+-- tabla Fila 
+CREATE TABLE Filas (
+    IDFila INT IDENTITY(1,1) PRIMARY KEY,
+    NumFila VARCHAR(10) NOT NULL,
+    IDZona INT NOT NULL, -- FK 
+    CONSTRAINT FK_Fila_Zona FOREIGN KEY (IDZona) REFERENCES Zonas(IDZona)
+);
+
+-- tabla Asiento 
+CREATE TABLE Asientos (
+    IDAsiento INT IDENTITY(1,1) PRIMARY KEY,
+    NumAsiento VARCHAR(10) NOT NULL,
+    IDFila INT NOT NULL, -- FK 
+    CONSTRAINT FK_Asiento_Fila FOREIGN KEY (IDFila) REFERENCES Filas(IDFila)
+);
+
+-- tabla Venta 
+CREATE TABLE Ventas (
+    GUID UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(), 
+    Subtotal DECIMAL(10,2) NOT NULL,
+    IVA DECIMAL(10,2) NOT NULL,
+    Total DECIMAL(10,2) NOT NULL,
+    IDUsr INT NOT NULL, -- FK 
+    CONSTRAINT FK_Venta_Usuario FOREIGN KEY (IDUsr) REFERENCES Usuarios(IDUsr)
+);
+
+-- tabla DetalleVenta 
+CREATE TABLE DetalleVentas (
+    IDDetVent INT IDENTITY(1,1) PRIMARY KEY,
+    GUID UNIQUEIDENTIFIER NOT NULL, -- FK 
+    IDEvnt INT NOT NULL,            -- FK
+    IDZona INT NOT NULL,            -- FK
+    IDFila INT NOT NULL,            -- FK 
+    IDAsiento INT NOT NULL,         -- FK 
+    CONSTRAINT FK_Detalle_Venta FOREIGN KEY (GUID) REFERENCES Ventas(GUID),
+    CONSTRAINT FK_Detalle_Partido FOREIGN KEY (IDEvnt) REFERENCES Partidos(IDEvnt),
+    CONSTRAINT FK_Detalle_Zona FOREIGN KEY (IDZona) REFERENCES Zonas(IDZona),
+    CONSTRAINT FK_Detalle_Fila FOREIGN KEY (IDFila) REFERENCES Filas(IDFila),
+    CONSTRAINT FK_Detalle_Asiento FOREIGN KEY (IDAsiento) REFERENCES Asientos(IDAsiento)
+);
+
+-- tabla Factura 
+CREATE TABLE Facturas (
+    FolioFac INT IDENTITY(1,1) PRIMARY KEY, 
+    EmRazon VARCHAR(150) NOT NULL,
+    EmRFC VARCHAR(20) NOT NULL,
+    EmDomicilio VARCHAR(255) NOT NULL,
+    RecNombre VARCHAR(150) NOT NULL,
+    RecRFC VARCHAR(20) NOT NULL,
+    RecDomicilio VARCHAR(255) NOT NULL,
+    HoraEmision TIME NOT NULL,
+    FechaEmision DATE NOT NULL,
+    Metodo_de_Pago VARCHAR(50) NOT NULL,
+    GUID UNIQUEIDENTIFIER NOT NULL, -- FK 
+    IDCts INT NOT NULL,             -- FK 
+    CONSTRAINT FK_Factura_Venta FOREIGN KEY (GUID) REFERENCES Ventas(GUID),
+    CONSTRAINT FK_Factura_Cliente FOREIGN KEY (IDCts) REFERENCES Clientes(IDCts)
+);
+
+-- tabla Cancelacion 
+CREATE TABLE Cancelaciones (
+    IDCancel INT IDENTITY(1,1) PRIMARY KEY,
+    Motivo VARCHAR(255) NOT NULL,
+    FechaHora DATETIME NOT NULL,
+    IDUsr INT NOT NULL,             -- FK 
+    GUID UNIQUEIDENTIFIER NOT NULL, -- FK 
+    CONSTRAINT FK_Cancelacion_Usuario FOREIGN KEY (IDUsr) REFERENCES Usuarios(IDUsr),
+    CONSTRAINT FK_Cancelacion_Venta FOREIGN KEY (GUID) REFERENCES Ventas(GUID)
+);
+
+-- tabla asociativa Clientes y Ventas
+CREATE TABLE VentasRealizadas (
+	IDCts INT NOT NULL,         -- FK
+	GUID UNIQUEIDENTIFIER NOT NULL, -- FK
+	CONSTRAINT PK_VentasRealizadas PRIMARY KEY (IDCts, GUID),
+	CONSTRAINT FK_VentasRealizada_Cliente FOREIGN KEY (IDCts) REFERENCES Clientes(IDCts),
+	CONSTRAINT FK_VentasRealizadas_Venta FOREIGN KEY (GUID) REFERENCES Ventas(GUID),
+);
+
+-- tabla nueva del atributo multivaluado Partido(EquiposAJugar)
+CREATE TABLE EquiposAJugar (
+	IDEvnt INT NOT NULL,        -- FK
+	Equipo VARCHAR(100) NOT NULL -- FK
+	CONSTRAINT PK_EquiposAJugar PRIMARY KEY (IDEvnt, Equipo),
+	CONSTRAINT FK_EquiposAJugar_Partidos FOREIGN KEY (IDEvnt) REFERENCES Partidos(IDEvnt),
+);
+
+-- tabla para ajustar a la normalizacion
+CREATE TABLE TelefonosClientes (
+    IDCts INT NOT NULL,         -- FK
+    Tipo VARCHAR(50) NOT NULL, 
+    Numero VARCHAR(20) NULL,
+    CONSTRAINT PK_TelefonosClientes_Clientes PRIMARY KEY (IDCts),
+    CONSTRAINT FK_TelefonosClientes_Clientes FOREIGN KEY (IDCts) REFERENCES Clientes(IDCts)
+)

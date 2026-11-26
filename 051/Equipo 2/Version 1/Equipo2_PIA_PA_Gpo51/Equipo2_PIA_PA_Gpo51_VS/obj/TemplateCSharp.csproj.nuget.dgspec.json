@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ferdo\\OneDrive\\Escritorio\\UANL\\FCFM\\SEMESTRE_4\\MAD_G053_2114464_DominguezSantaCruzFernando_PIA\\FDSC_PIA_MAD_VSs\\TemplateCSharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ferdo\\OneDrive\\Escritorio\\UANL\\FCFM\\SEMESTRE_4\\MAD_G053_2114464_DominguezSantaCruzFernando_PIA\\FDSC_PIA_MAD_VSs\\TemplateCSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ferdo\\OneDrive\\Escritorio\\UANL\\FCFM\\SEMESTRE_4\\MAD_G053_2114464_DominguezSantaCruzFernando_PIA\\FDSC_PIA_MAD_VSs\\TemplateCSharp.csproj",
+        "projectName": "TemplateCSharp",
+        "projectPath": "C:\\Users\\ferdo\\OneDrive\\Escritorio\\UANL\\FCFM\\SEMESTRE_4\\MAD_G053_2114464_DominguezSantaCruzFernando_PIA\\FDSC_PIA_MAD_VSs\\TemplateCSharp.csproj",
+        "packagesPath": "C:\\Users\\ferdo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferdo\\OneDrive\\Escritorio\\UANL\\FCFM\\SEMESTRE_4\\MAD_G053_2114464_DominguezSantaCruzFernando_PIA\\FDSC_PIA_MAD_VSs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ferdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows": {
+            "framework": "net8.0-windows7.0",
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "11.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows": {
+          "framework": "net8.0-windows7.0",
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-rc.3.26522.148/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\AAModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ActAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ACModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConsOperativos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConsAdmins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ActOperativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AOModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\OcupDispo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\HistorialCte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\IniciarSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PaginaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegEstadio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegOperativos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegAdmins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConsClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ActClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegPartido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegZonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\VSeleccionarCte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\VSeleccionarEstadios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\VSeleccionarZona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
