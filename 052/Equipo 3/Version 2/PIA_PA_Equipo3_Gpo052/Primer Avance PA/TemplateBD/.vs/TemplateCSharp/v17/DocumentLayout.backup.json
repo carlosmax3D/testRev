@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisr\\Downloads\\TemplateBD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\luisr\\downloads\\templatebd\\database\\04_fecha_registro_usuario.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:database\\04_fecha_registro_usuario.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\luisr\\downloads\\templatebd\\database\\03_sp_actualizar_eliminar.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:database\\03_sp_actualizar_eliminar.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\luisr\\downloads\\templatebd\\database\\02_vistas_y_sp_usuarios.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:database\\02_vistas_y_sp_usuarios.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\luisr\\downloads\\templatebd\\database\\01_usuario_de_prueba.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:database\\01_usuario_de_prueba.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\luisr\\downloads\\templatebd\\templatecsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:templatecsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\luisr\\downloads\\templatebd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\luisr\\downloads\\templatebd\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\luisr\\downloads\\templatebd\\interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\luisr\\downloads\\templatebd\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\luisr\\downloads\\templatebd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\luisr\\downloads\\templatebd\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Data\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Data\\DatabaseConnection.cs",
+              "RelativeToolTip": "Data\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T17:45:06.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T17:41:35.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Services\\ClienteService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T17:41:16.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\TemplateBD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\luisr\\Downloads\\TemplateBD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-28T17:40:59.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\TemplateBD\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\luisr\\Downloads\\TemplateBD\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-28T17:40:51.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T17:40:47.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "04_fecha_registro_usuario.sql",
+              "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Database\\04_fecha_registro_usuario.sql",
+              "RelativeDocumentMoniker": "Database\\04_fecha_registro_usuario.sql",
+              "ToolTip": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Database\\04_fecha_registro_usuario.sql",
+              "RelativeToolTip": "Database\\04_fecha_registro_usuario.sql",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-28T17:29:27.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "03_sp_actualizar_eliminar.sql",
+              "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Database\\03_sp_actualizar_eliminar.sql",
+              "RelativeDocumentMoniker": "Database\\03_sp_actualizar_eliminar.sql",
+              "ToolTip": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Database\\03_sp_actualizar_eliminar.sql",
+              "RelativeToolTip": "Database\\03_sp_actualizar_eliminar.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-28T17:29:19.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "02_vistas_y_sp_usuarios.sql",
+              "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Database\\02_vistas_y_sp_usuarios.sql",
+              "RelativeDocumentMoniker": "Database\\02_vistas_y_sp_usuarios.sql",
+              "ToolTip": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Database\\02_vistas_y_sp_usuarios.sql",
+              "RelativeToolTip": "Database\\02_vistas_y_sp_usuarios.sql",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-28T17:29:01.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "01_usuario_de_prueba.sql",
+              "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Database\\01_usuario_de_prueba.sql",
+              "RelativeDocumentMoniker": "Database\\01_usuario_de_prueba.sql",
+              "ToolTip": "C:\\Users\\luisr\\Downloads\\TemplateBD\\Database\\01_usuario_de_prueba.sql",
+              "RelativeToolTip": "Database\\01_usuario_de_prueba.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-28T17:28:57.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TemplateCSharp.csproj",
+              "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\TemplateBD\\TemplateCSharp.csproj",
+              "RelativeDocumentMoniker": "TemplateCSharp.csproj",
+              "ToolTip": "C:\\Users\\luisr\\Downloads\\TemplateBD\\TemplateCSharp.csproj",
+              "RelativeToolTip": "TemplateCSharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-28T05:55:35.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

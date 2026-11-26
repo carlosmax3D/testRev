@@ -1,0 +1,651 @@
+using System;
+using System.Drawing;
+using System.Windows.Forms;
+
+namespace Pantallas_1er_avance
+{
+    static class Program
+    {
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new frmLogin());
+        }
+    }
+    public class FormBase : Form
+    {
+        protected FormBase(string titulo, int ancho, int alto)
+        {
+            Text = titulo;
+            ClientSize = new Size(ancho, alto);  
+            StartPosition = FormStartPosition.CenterScreen;
+            FormBorderStyle = FormBorderStyle.FixedDialog;
+            MaximizeBox = false;
+            MinimizeBox = false;
+        }
+
+        protected Label Etiqueta(string texto, int x, int y, int ancho)
+        {
+            Label l = new Label { Text = texto, Location = new Point(x, y + 3), Width = ancho, AutoSize = false };
+            Controls.Add(l);
+            return l;
+        }
+
+        protected TextBox Texto(int x, int y, int ancho)
+        {
+            TextBox t = new TextBox { Location = new Point(x, y), Width = ancho };
+            Controls.Add(t);
+            return t;
+        }
+
+        protected ComboBox Combo(int x, int y, int ancho)
+        {
+            ComboBox c = new ComboBox { Location = new Point(x, y), Width = ancho, DropDownStyle = ComboBoxStyle.DropDownList };
+            Controls.Add(c);
+            return c;
+        }
+
+        protected DateTimePicker Fecha(int x, int y, int ancho)
+        {
+            DateTimePicker d = new DateTimePicker { Location = new Point(x, y), Width = ancho, Format = DateTimePickerFormat.Short };
+            Controls.Add(d);
+            return d;
+        }
+
+        // Etiqueta + caja de texto / combo / fecha (la caja queda 110 px a la derecha de la etiqueta)
+        protected TextBox CampoTexto(string etiqueta, int x, int y)
+        {
+            Etiqueta(etiqueta, x, y, 105);
+            return Texto(x + 110, y, 200);
+        }
+
+        protected ComboBox CampoCombo(string etiqueta, int x, int y)
+        {
+            Etiqueta(etiqueta, x, y, 105);
+            return Combo(x + 110, y, 200);
+        }
+
+        protected DateTimePicker CampoFecha(string etiqueta, int x, int y)
+        {
+            Etiqueta(etiqueta, x, y, 105);
+            return Fecha(x + 110, y, 200);
+        }
+
+        protected Button Boton(string texto, int x, int y, int ancho)
+        {
+            Button b = new Button { Text = texto, Location = new Point(x, y), Width = ancho };
+            Controls.Add(b);
+            return b;
+        }
+
+        protected Label Recuadro(string texto, int x, int y, int ancho, int alto)
+        {
+            Label l = new Label
+            {
+                Text = texto,
+                Location = new Point(x, y),
+                Size = new Size(ancho, alto),
+                BorderStyle = BorderStyle.FixedSingle,
+                AutoSize = false
+            };
+            Controls.Add(l);
+            return l;
+        }
+
+        protected DataGridView Tabla(int x, int y, int ancho, int alto, params string[] columnas)
+        {
+            DataGridView t = new DataGridView
+            {
+                Location = new Point(x, y),
+                Size = new Size(ancho, alto),
+                AllowUserToAddRows = false,
+                ReadOnly = true,
+                MultiSelect = false,
+                RowHeadersVisible = false,
+                SelectionMode = DataGridViewSelectionMode.FullRowSelect,
+                AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill
+            };
+            for (int i = 0; i < columnas.Length; i++)
+                t.Columns.Add("col" + i, columnas[i]);
+            Controls.Add(t);
+            return t;
+        }
+    }
+
+    // 1. frmLogin
+    public class frmLogin : FormBase
+    {
+        private Label lblCorreo;
+        private Label lblContrasena;
+        private TextBox txtCorreo;
+        private TextBox txtContrasena;
+        private Button btnIngresar;
+        private Button btnSalir;
+
+        public frmLogin() : base("Login", 350, 180)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            lblCorreo = Etiqueta("Correo", 20, 20, 100);
+            txtCorreo = Texto(130, 20, 180);
+
+            lblContrasena = Etiqueta("Contraseña", 20, 60, 100);
+            txtContrasena = Texto(130, 60, 180);
+            txtContrasena.UseSystemPasswordChar = true;
+
+            btnIngresar = Boton("Ingresar", 60, 110, 90);
+            btnSalir = Boton("Salir", 180, 110, 90);
+
+            AcceptButton = btnIngresar;   // Enter = Ingresar
+            CancelButton = btnSalir;      // Esc = Salir
+
+            btnIngresar.Click += btnIngresar_Click;
+            btnSalir.Click += (s, e) => Close();
+        }
+
+        private void btnIngresar_Click(object sender, EventArgs e)
+        {
+            if (txtCorreo.Text.Trim() == "" || txtContrasena.Text == "")
+            {
+                MessageBox.Show("Captura tu correo y contraseña.", "Login",
+                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            // TODO: validar usuario contra la base de datos.
+            Hide();
+            using (frmMenuPrincipal menu = new frmMenuPrincipal())
+            {
+                menu.ShowDialog();
+            }
+            Close();
+        }
+    }
+
+    // 2. frmMenuPrincipal
+    public class frmMenuPrincipal : Form
+    {
+        private MenuStrip menuStrip;
+        private Label lblBienvenida;
+
+        public frmMenuPrincipal()
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            Text = "Menú Principal";
+            ClientSize = new Size(800, 460);
+            StartPosition = FormStartPosition.CenterScreen;
+
+            lblBienvenida = new Label
+            {
+                Text = "Sistema de Venta de Boletos",
+                Dock = DockStyle.Fill,
+                TextAlign = ContentAlignment.MiddleCenter,
+                Font = new Font("Segoe UI", 18F, FontStyle.Bold)
+            };
+            Controls.Add(lblBienvenida);   // se agrega primero para que el menú quede arriba
+
+            menuStrip = new MenuStrip();
+
+            // Opciones del menú exactamente como en el documento (11)
+            menuStrip.Items.Add(CrearOpcion("Inicio"));
+            menuStrip.Items.Add(CrearOpcion("Usuarios"));
+            menuStrip.Items.Add(CrearOpcion("Clientes"));
+            menuStrip.Items.Add(CrearOpcion("Estadios"));
+
+            // Zonas: desplegable para poder llegar también a Asientos
+            ToolStripMenuItem zonas = new ToolStripMenuItem("Zonas");
+            zonas.DropDownItems.Add(CrearOpcion("Zonas"));
+            zonas.DropDownItems.Add(CrearOpcion("Asientos"));
+            menuStrip.Items.Add(zonas);
+
+            menuStrip.Items.Add(CrearOpcion("Partidos"));
+            menuStrip.Items.Add(CrearOpcion("Venta Boletos"));
+            menuStrip.Items.Add(CrearOpcion("Cancelaciones"));
+            menuStrip.Items.Add(CrearOpcion("Facturación"));
+
+            // Reportes: desplegable para llegar a los 3 reportes
+            ToolStripMenuItem reportes = new ToolStripMenuItem("Reportes");
+            reportes.DropDownItems.Add(CrearOpcion("Reporte de Ventas"));
+            reportes.DropDownItems.Add(CrearOpcion("Reporte de Ocupación"));
+            reportes.DropDownItems.Add(CrearOpcion("Historial de Cliente"));
+            menuStrip.Items.Add(reportes);
+
+            menuStrip.Items.Add(CrearOpcion("Salir"));
+
+            MainMenuStrip = menuStrip;
+            Controls.Add(menuStrip);
+        }
+
+        private ToolStripMenuItem CrearOpcion(string texto)
+        {
+            ToolStripMenuItem item = new ToolStripMenuItem(texto);
+            item.Click += AbrirPantalla;
+            return item;
+        }
+
+        private void AbrirPantalla(object sender, EventArgs e)
+        {
+            string opcion = ((ToolStripMenuItem)sender).Text;
+            Form pantalla = null;
+
+            switch (opcion)
+            {
+                case "Usuarios": pantalla = new frmUsuarios(); break;
+                case "Clientes": pantalla = new frmClientes(); break;
+                case "Estadios": pantalla = new frmEstadios(); break;
+                case "Zonas": pantalla = new frmZonas(); break;
+                case "Asientos": pantalla = new frmAsientos(); break;
+                case "Partidos": pantalla = new frmPartidos(); break;
+                case "Venta Boletos": pantalla = new frmVentaBoletos(); break;
+                case "Cancelaciones": pantalla = new frmCancelaciones(); break;
+                case "Facturación": pantalla = new frmFacturacion(); break;
+                case "Reporte de Ventas": pantalla = new frmReporteVentas(); break;
+                case "Reporte de Ocupación": pantalla = new frmReporteOcupacion(); break;
+                case "Historial de Cliente": pantalla = new frmHistorialCliente(); break;
+                case "Salir": Close(); return;
+                default: return;   // "Inicio" y "Reportes" no abren pantalla
+            }
+
+            pantalla.ShowDialog(this);
+            pantalla.Dispose();
+        }
+    }
+
+    // 3. frmUsuarios
+    public class frmUsuarios : FormBase
+    {
+        private TextBox txtCorreo, txtContrasena, txtNombre, txtApellidos, txtNomina, txtFechaNac;
+        private ComboBox cmbTipoUsuario;
+        private Button btnNuevo, btnGuardar, btnEditar, btnEliminar, btnBuscar;
+        private DataGridView dgvUsuarios;
+
+        public frmUsuarios() : base("Usuarios", 800, 480)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            txtCorreo = CampoTexto("Correo", 20, 20);
+            txtContrasena = CampoTexto("Contraseña", 20, 50);
+            txtContrasena.UseSystemPasswordChar = true;
+            txtNombre = CampoTexto("Nombre", 20, 80);
+            txtApellidos = CampoTexto("Apellidos", 20, 110);
+
+            txtNomina = CampoTexto("Nómina", 400, 20);
+            txtFechaNac = CampoTexto("Fecha nacimiento", 400, 50);
+            cmbTipoUsuario = CampoCombo("Tipo de usuario", 400, 80);
+            cmbTipoUsuario.Items.AddRange(new object[] { "Administrador", "Vendedor" }); // ejemplo
+
+            btnNuevo = Boton("Nuevo", 20, 160, 80);
+            btnGuardar = Boton("Guardar", 110, 160, 80);
+            btnEditar = Boton("Editar", 200, 160, 80);
+            btnEliminar = Boton("Eliminar", 290, 160, 80);
+            btnBuscar = Boton("Buscar", 380, 160, 80);
+
+            dgvUsuarios = Tabla(20, 205, 760, 255,
+                "Nómina", "Correo", "Nombre", "Apellidos", "Fecha nac.", "Tipo");
+        }
+    }
+
+    // 4. frmClientes
+    public class frmClientes : FormBase
+    {
+        private TextBox txtNombre, txtApellidos, txtCalle, txtNumero, txtColonia,
+            txtCiudad, txtEstado, txtCP, txtRFC, txtCorreo, txtTelefonos, txtFechaNac;
+        private Button btnNuevo, btnGuardar, btnEditar, btnEliminar, btnBuscar;
+        private DataGridView dgvClientes;
+
+        public frmClientes() : base("Clientes", 800, 480)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            txtNombre = CampoTexto("Nombre", 20, 20);
+            txtApellidos = CampoTexto("Apellidos", 20, 50);
+            txtCalle = CampoTexto("Calle", 20, 80);
+            txtNumero = CampoTexto("Número", 20, 110);
+            txtColonia = CampoTexto("Colonia", 20, 140);
+            txtCiudad = CampoTexto("Ciudad", 20, 170);
+
+            txtEstado = CampoTexto("Estado", 400, 20);
+            txtCP = CampoTexto("C.P.", 400, 50);
+            txtRFC = CampoTexto("RFC", 400, 80);
+            txtCorreo = CampoTexto("Correo", 400, 110);
+            txtTelefonos = CampoTexto("Teléfonos", 400, 140);
+            txtFechaNac = CampoTexto("Fecha nacimiento", 400, 170);
+
+            btnNuevo = Boton("Nuevo", 20, 215, 80);
+            btnGuardar = Boton("Guardar", 110, 215, 80);
+            btnEditar = Boton("Editar", 200, 215, 80);
+            btnEliminar = Boton("Eliminar", 290, 215, 80);
+            btnBuscar = Boton("Buscar", 380, 215, 80);
+
+            dgvClientes = Tabla(20, 255, 760, 205,
+                "Nombre", "Apellidos", "RFC", "Correo", "Teléfonos", "Ciudad");
+        }
+    }
+
+    // 5. frmEstadios
+    public class frmEstadios : FormBase
+    {
+        private TextBox txtNombre, txtCiudad, txtCapacidad, txtMapa;
+        private Button btnNuevo, btnGuardar, btnEditar, btnEliminar;
+        private DataGridView dgvEstadios;
+
+        public frmEstadios() : base("Estadios", 800, 400)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            txtNombre = CampoTexto("Nombre", 20, 20);
+            txtCiudad = CampoTexto("Ciudad", 20, 50);
+            txtCapacidad = CampoTexto("Capacidad", 20, 80);
+            txtMapa = CampoTexto("Mapa (archivo)", 20, 110);
+
+            btnNuevo = Boton("Nuevo", 20, 155, 80);
+            btnGuardar = Boton("Guardar", 110, 155, 80);
+            btnEditar = Boton("Editar", 200, 155, 80);
+            btnEliminar = Boton("Eliminar", 290, 155, 80);
+
+            dgvEstadios = Tabla(20, 195, 760, 185, "Nombre", "Ciudad", "Capacidad", "Mapa");
+        }
+    }
+
+    // 6. frmZonas
+    public class frmZonas : FormBase
+    {
+        private ComboBox cmbEstadio;
+        private TextBox txtNombreZona, txtPrecioBase;
+        private Button btnNuevo, btnGuardar, btnEditar, btnEliminar;
+        private DataGridView dgvZonas;
+
+        public frmZonas() : base("Zonas", 800, 390)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            cmbEstadio = CampoCombo("Estadio", 20, 20);
+            txtNombreZona = CampoTexto("Nombre de zona", 20, 50);
+            txtPrecioBase = CampoTexto("Precio base", 20, 80);
+
+            btnNuevo = Boton("Nuevo", 20, 125, 80);
+            btnGuardar = Boton("Guardar", 110, 125, 80);
+            btnEditar = Boton("Editar", 200, 125, 80);
+            btnEliminar = Boton("Eliminar", 290, 125, 80);
+
+            dgvZonas = Tabla(20, 165, 760, 205, "Estadio", "Zona", "Precio base");
+        }
+    }
+
+    // 7. frmAsientos
+    public class frmAsientos : FormBase
+    {
+        private ComboBox cmbZona;
+        private TextBox txtFila, txtNumero;
+        private Button btnNuevo, btnGuardar, btnEliminar;
+        private DataGridView dgvAsientos;
+
+        public frmAsientos() : base("Asientos", 800, 390)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            cmbZona = CampoCombo("Zona", 20, 20);
+            txtFila = CampoTexto("Fila", 20, 50);
+            txtNumero = CampoTexto("Número", 20, 80);
+
+            btnNuevo = Boton("Nuevo", 20, 125, 80);
+            btnGuardar = Boton("Guardar", 110, 125, 80);
+            btnEliminar = Boton("Eliminar", 200, 125, 80);
+
+            dgvAsientos = Tabla(20, 165, 760, 205, "Zona", "Fila", "Número");
+        }
+    }
+
+    // 8. frmPartidos
+    public class frmPartidos : FormBase
+    {
+        private ComboBox cmbEstadio, cmbEstado;
+        private DateTimePicker dtpFechaHora;
+        private TextBox txtEquipoLocal, txtEquipoVisitante;
+        private Button btnNuevo, btnGuardar, btnEditar, btnEliminar;
+        private DataGridView dgvPartidos;
+
+        public frmPartidos() : base("Partidos", 800, 450)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            cmbEstadio = CampoCombo("Estadio", 20, 20);
+
+            dtpFechaHora = CampoFecha("Fecha y hora", 20, 50);
+            dtpFechaHora.Format = DateTimePickerFormat.Custom;
+            dtpFechaHora.CustomFormat = "dd/MM/yyyy HH:mm";
+
+            txtEquipoLocal = CampoTexto("Equipo local", 20, 80);
+            txtEquipoVisitante = CampoTexto("Equipo visitante", 20, 110);
+
+            cmbEstado = CampoCombo("Estado", 20, 140);
+            cmbEstado.Items.AddRange(new object[] { "Programado", "Cancelado", "Finalizado" }); // ejemplo
+
+            btnNuevo = Boton("Nuevo", 20, 185, 80);
+            btnGuardar = Boton("Guardar", 110, 185, 80);
+            btnEditar = Boton("Editar", 200, 185, 80);
+            btnEliminar = Boton("Eliminar", 290, 185, 80);
+
+            dgvPartidos = Tabla(20, 225, 760, 205,
+                "Estadio", "Fecha y hora", "Local", "Visitante", "Estado");
+        }
+    }
+
+    // 9. frmVentaBoletos
+    public class frmVentaBoletos : FormBase
+    {
+        private ComboBox cmbCliente, cmbPartido, cmbZona, cmbMetodoPago;
+        private DataGridView dgvAsientosDisponibles;
+        private NumericUpDown nudCantidad;
+        private Label lblSubtotal, lblIVA, lblTotal;
+        private Button btnCobrar, btnCancelar;
+
+        public frmVentaBoletos() : base("Venta de Boletos", 800, 420)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            cmbCliente = CampoCombo("Cliente", 20, 20);
+            cmbPartido = CampoCombo("Partido", 20, 50);
+            cmbZona = CampoCombo("Zona", 20, 80);
+
+            Etiqueta("Asientos disponibles", 20, 115, 200);
+            dgvAsientosDisponibles = Tabla(20, 145, 760, 150, "Fila", "Número", "Precio");
+            dgvAsientosDisponibles.MultiSelect = true;   // se pueden elegir varios asientos
+
+            Etiqueta("Cantidad", 20, 315, 100);
+            nudCantidad = new NumericUpDown { Location = new Point(130, 315), Width = 100, Minimum = 1, Value = 1 };
+            Controls.Add(nudCantidad);
+
+            lblSubtotal = Etiqueta("Subtotal: $0.00", 260, 315, 130);
+            lblIVA = Etiqueta("IVA: $0.00", 400, 315, 130);
+            lblTotal = Etiqueta("Total: $0.00", 540, 315, 130);
+
+            cmbMetodoPago = CampoCombo("Método de pago", 20, 360);
+            cmbMetodoPago.Items.AddRange(new object[] { "Efectivo", "Tarjeta", "Transferencia" }); // ejemplo
+
+            btnCobrar = Boton("Cobrar", 350, 358, 100);
+            btnCancelar = Boton("Cancelar", 470, 358, 100);
+            btnCancelar.Click += (s, e) => Close();
+        }
+    }
+
+    // 10. frmCancelaciones
+    public class frmCancelaciones : FormBase
+    {
+        private TextBox txtFolioCompra, txtMotivo;
+        private Button btnBuscar, btnCancelarVenta;
+        private Label lblDatosVenta;
+
+        public frmCancelaciones() : base("Cancelaciones", 600, 330)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            Etiqueta("Folio de compra", 20, 20, 120);
+            txtFolioCompra = Texto(150, 20, 200);
+            btnBuscar = Boton("Buscar", 370, 18, 100);
+
+            Etiqueta("Datos de la venta", 20, 60, 200);
+            lblDatosVenta = Recuadro("", 20, 90, 560, 80);
+
+            Etiqueta("Motivo de cancelación", 20, 185, 200);
+            txtMotivo = new TextBox { Location = new Point(20, 215), Width = 560, Height = 60, Multiline = true };
+            Controls.Add(txtMotivo);
+
+            btnCancelarVenta = Boton("Cancelar venta", 20, 288, 150);
+        }
+    }
+
+    // 11. frmFacturacion
+    public class frmFacturacion : FormBase
+    {
+        private Label lblDatosEmisor, lblDatosReceptor;
+        private DataGridView dgvDetalle;
+        private Button btnGenerarPDF;
+
+        public frmFacturacion() : base("Facturación", 700, 450)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            Etiqueta("Datos del emisor", 20, 10, 300);
+            lblDatosEmisor = Recuadro("", 20, 40, 320, 70);
+
+            Etiqueta("Datos del receptor", 360, 10, 300);
+            lblDatosReceptor = Recuadro("", 360, 40, 320, 70);
+
+            dgvDetalle = Tabla(20, 130, 660, 255, "Cantidad", "Descripción", "Precio unitario", "Importe");
+
+            btnGenerarPDF = Boton("Generar PDF", 20, 400, 150);
+        }
+    }
+
+    // 12. frmReporteVentas
+    public class frmReporteVentas : FormBase
+    {
+        private DateTimePicker dtpDesde, dtpHasta;
+        private ComboBox cmbEstadio, cmbPartido;
+        private Button btnBuscar;
+        private DataGridView dgvReporte;
+        private Label lblTotalIngresos, lblTotalBoletos;
+
+        public frmReporteVentas() : base("Reporte de Ventas", 800, 450)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            Etiqueta("Desde", 20, 20, 50);
+            dtpDesde = Fecha(75, 20, 150);
+            Etiqueta("Hasta", 250, 20, 50);
+            dtpHasta = Fecha(305, 20, 150);
+
+            Etiqueta("Estadio", 20, 55, 50);
+            cmbEstadio = Combo(75, 55, 150);
+            Etiqueta("Partido", 250, 55, 50);
+            cmbPartido = Combo(305, 55, 200);
+
+            btnBuscar = Boton("Buscar", 530, 53, 100);
+
+            dgvReporte = Tabla(20, 95, 760, 300,
+                "Fecha", "Partido", "Estadio", "Zona", "Boletos", "Importe");
+
+            lblTotalIngresos = Etiqueta("Total ingresos: $0.00", 20, 410, 220);
+            lblTotalBoletos = Etiqueta("Total boletos: 0", 260, 410, 200);
+        }
+    }
+
+    // 13. frmReporteOcupacion
+    public class frmReporteOcupacion : FormBase
+    {
+        private ComboBox cmbPartido, cmbZona;
+        private Button btnBuscar;
+        private DataGridView dgvReporte;
+        private Label lblAsientosTotales, lblVendidos, lblDisponibles, lblPorcentajeOcupacion;
+
+        public frmReporteOcupacion() : base("Reporte de Ocupación", 800, 420)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            Etiqueta("Partido", 20, 20, 50);
+            cmbPartido = Combo(75, 20, 200);
+            Etiqueta("Zona", 300, 20, 40);
+            cmbZona = Combo(345, 20, 150);
+
+            btnBuscar = Boton("Buscar", 520, 18, 100);
+
+            dgvReporte = Tabla(20, 60, 760, 300,
+                "Zona", "Asientos", "Vendidos", "Disponibles", "% Ocupación");
+
+            lblAsientosTotales = Etiqueta("Asientos totales: 0", 20, 375, 180);
+            lblVendidos = Etiqueta("Vendidos: 0", 210, 375, 150);
+            lblDisponibles = Etiqueta("Disponibles: 0", 370, 375, 150);
+            lblPorcentajeOcupacion = Etiqueta("% Ocupación: 0%", 530, 375, 180);
+        }
+    }
+
+    // 14. frmHistorialCliente
+    public class frmHistorialCliente : FormBase
+    {
+        private TextBox txtApellidos;
+        private Button btnBuscar, btnVerHistorial;
+        private DataGridView dgvResultados, dgvCompras;
+
+        public frmHistorialCliente() : base("Historial del Cliente", 800, 460)
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            Etiqueta("Apellidos", 20, 20, 100);
+            txtApellidos = Texto(130, 20, 200);
+            btnBuscar = Boton("Buscar", 350, 18, 100);
+
+            dgvResultados = Tabla(20, 60, 760, 150, "Nombre", "Apellidos", "RFC", "Correo");
+
+            btnVerHistorial = Boton("Ver historial", 20, 220, 150);
+
+            dgvCompras = Tabla(20, 260, 760, 180,
+                "Folio", "Fecha", "Partido", "Zona", "Asientos", "Total", "Estado");
+        }
+    }
+}

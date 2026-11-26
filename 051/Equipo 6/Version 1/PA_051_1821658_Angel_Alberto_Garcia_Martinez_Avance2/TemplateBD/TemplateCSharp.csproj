@@ -1,0 +1,128 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="App.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Forms/FrmAdministradorInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmAdministradorInicial.Designer.cs">
+      <DependentUpon>FrmAdministradorInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmCancelacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmCancelacion.Designer.cs">
+      <DependentUpon>FrmCancelacion.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmClientes.Designer.cs">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmEmpresa.Designer.cs">
+      <DependentUpon>FrmEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmEquipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmEquipos.Designer.cs">
+      <DependentUpon>FrmEquipos.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmEstadios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmEstadios.Designer.cs">
+      <DependentUpon>FrmEstadios.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmFactura.Designer.cs">
+      <DependentUpon>FrmFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmHistorialCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmHistorialCliente.Designer.cs">
+      <DependentUpon>FrmHistorialCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmPago.Designer.cs">
+      <DependentUpon>FrmPago.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmPartidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmPartidos.Designer.cs">
+      <DependentUpon>FrmPartidos.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmReporteOcupacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmReporteOcupacion.Designer.cs">
+      <DependentUpon>FrmReporteOcupacion.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmReporteVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmReporteVentas.Designer.cs">
+      <DependentUpon>FrmReporteVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmUsuarios.Designer.cs">
+      <DependentUpon>FrmUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmVenta.Designer.cs">
+      <DependentUpon>FrmVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Forms/FrmZonasAsientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms/FrmZonasAsientos.Designer.cs">
+      <DependentUpon>FrmZonasAsientos.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+</Project>

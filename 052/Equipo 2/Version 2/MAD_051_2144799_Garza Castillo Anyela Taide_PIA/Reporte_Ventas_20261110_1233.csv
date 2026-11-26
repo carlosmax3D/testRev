@@ -1,0 +1,5 @@
+﻿"Número de factura","Folio de venta","RFC","Cliente","Fecha","Subtotal","IVA","Total","Método de pago","Estatus"
+"4","67592AAB-59C0-4C01-AF13-17394F267D1C","MATT030101000","Less Ruiz","10/11/2026 0:00:00","650,00","104,00","754,00","credito","Activa"
+"1","8E6E3602-0522-4DB8-A2CA-A9A1E6F10446","XAXX010101000","Juan Perez","10/11/2026 0:00:00","0,00","0,00","0,00","credito","Cancelada"
+"3","E3FEC5B8-CB8D-414B-B39D-42C0E7EBDADD","XAXX010101000","Juan Perez","10/11/2026 0:00:00","650,00","104,00","754,00","debito","Activa"
+"2","FE8116BA-D588-4F9E-9B3D-DC053E49BAED","XAXX010101000","Juan Perez","10/11/2026 0:00:00","0,00","0,00","0,00","efectivo","Activa"

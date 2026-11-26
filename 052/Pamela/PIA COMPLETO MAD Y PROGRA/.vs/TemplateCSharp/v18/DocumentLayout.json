@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmventaboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmventaboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmseleccionarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmseleccionarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmreporteocupacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmreporteocupacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmpartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmpartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmpagotarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmpagotarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmhistorialcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmhistorialcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmfacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmfacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmestadios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmestadios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmdetallezona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetallezona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmdetalleusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetalleusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmdetallepartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetallepartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmdetalleestadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetalleestadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmcancelaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmcancelaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmdetallecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetallecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmdetallecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetallecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\interfaces\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\interfaces\\repositories\\iestadiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\repositories\\iestadiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\interfaces\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmcancelaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmcancelaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\data\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:data\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\models\\datostarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:models\\datostarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\interfaces\\services\\isesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\services\\isesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmventaboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmventaboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmestadios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmestadios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmdetalleusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetalleusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmdetallezona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetallezona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\interfaces\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\models\\resultadoiniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:models\\resultadoiniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\pame\\desktop\\pia completo mad y progra\\forms\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmpartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmpartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmhistorialcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmhistorialcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmreporteocupacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmreporteocupacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmdetalleestadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetalleestadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\forms\\frmdetallepartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetallepartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmfacturaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Forms\\FrmMenuPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\pame\\desktop\\mad pia completo\\forms\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Interfaces\\Services\\IProductoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Models\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Interfaces\\Repositories\\IProductoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\forms\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmVentaBoletos.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmVentaBoletos.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmVentaBoletos.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmVentaBoletos.cs",
+              "RelativeToolTip": "Forms\\FrmVentaBoletos.cs",
+              "ViewState": "AgIAAKYCAAAAAAAAAADwv60CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:24:51.554Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSeleccionarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmSeleccionarCliente.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmSeleccionarCliente.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmSeleccionarCliente.cs",
+              "RelativeToolTip": "Forms\\FrmSeleccionarCliente.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:23:47.346Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmReporteVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmReporteVentas.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmReporteVentas.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmReporteVentas.cs",
+              "RelativeToolTip": "Forms\\FrmReporteVentas.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAcwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:23:19.504Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmReporteOcupacion.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmReporteOcupacion.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmReporteOcupacion.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmReporteOcupacion.cs",
+              "RelativeToolTip": "Forms\\FrmReporteOcupacion.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAcwLIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:22:52.429Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmPartidos.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmPartidos.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPartidos.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmPartidos.cs",
+              "RelativeToolTip": "Forms\\FrmPartidos.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAiwL8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:21:41.419Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPagoTarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmPagoTarjeta.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPagoTarjeta.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmPagoTarjeta.cs",
+              "RelativeToolTip": "Forms\\FrmPagoTarjeta.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:21:13.139Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmUsuarios.cs",
+              "RelativeToolTip": "Forms\\FrmUsuarios.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAiwLoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.224Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmLogin.cs",
+              "RelativeToolTip": "Forms\\FrmLogin.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAiwFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:20:48.931Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmHistorialCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmHistorialCliente.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmHistorialCliente.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmHistorialCliente.cs",
+              "RelativeToolTip": "Forms\\FrmHistorialCliente.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAUwNkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:19:58.984Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmFacturacion.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmFacturacion.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmFacturacion.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmFacturacion.cs",
+              "RelativeToolTip": "Forms\\FrmFacturacion.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAADwv+YAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:19:30.152Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmEstadios.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmEstadios.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmEstadios.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmEstadios.cs",
+              "RelativeToolTip": "Forms\\FrmEstadios.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAiwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:18:52.245Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmPrincipal.cs",
+              "RelativeToolTip": "Forms\\FrmPrincipal.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.245Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmDetalleZona.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleZona.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleZona.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleZona.cs",
+              "RelativeToolTip": "Forms\\FrmDetalleZona.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:18:26.895Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmDetallePartido.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetallePartido.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetallePartido.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetallePartido.cs",
+              "RelativeToolTip": "Forms\\FrmDetallePartido.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAcwM0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:17:29.887Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmDetalleEstadio.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleEstadio.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleEstadio.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleEstadio.cs",
+              "RelativeToolTip": "Forms\\FrmDetalleEstadio.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAAiwC8BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:16:46.057Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmClientes.cs",
+              "RelativeToolTip": "Forms\\FrmClientes.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAiwO4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:16:19.955Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmCancelaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmCancelaciones.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmCancelaciones.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmCancelaciones.cs",
+              "RelativeToolTip": "Forms\\FrmCancelaciones.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAcwNUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:15:53.57Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmAuditoria.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmAuditoria.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmAuditoria.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmAuditoria.cs",
+              "RelativeToolTip": "Forms\\FrmAuditoria.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:15:16.495Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmDetalleUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleUsuario.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleUsuario.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleUsuario.cs",
+              "RelativeToolTip": "Forms\\FrmDetalleUsuario.cs",
+              "ViewState": "AgIAACMBAAAAAAAAAAAiwDUBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.214Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmDetalleCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleCliente.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleCliente.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleCliente.cs",
+              "RelativeToolTip": "Forms\\FrmDetalleCliente.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAcwAABAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:10:25.42Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Interfaces\\Services\\IClienteService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Interfaces\\Services\\IClienteService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:08:45.25Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEstadioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Interfaces\\Repositories\\IEstadioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IEstadioRepository.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Interfaces\\Repositories\\IEstadioRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IEstadioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:08:27.868Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Data\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Data\\DatabaseConnection.cs",
+              "RelativeToolTip": "Data\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.229Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmAuditoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmAuditoria.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmAuditoria.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmAuditoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmAuditoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.768Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.81Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmDetalleCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleCliente.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleCliente.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmDetalleCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.77Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Data\\Configuracion.cs",
+              "RelativeDocumentMoniker": "Data\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Data\\Configuracion.cs",
+              "RelativeToolTip": "Data\\Configuracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T04:16:25.36Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmCancelaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmCancelaciones.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmCancelaciones.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmCancelaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmCancelaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.784Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T04:15:22.379Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DatosTarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Models\\DatosTarjeta.cs",
+              "RelativeDocumentMoniker": "Models\\DatosTarjeta.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Models\\DatosTarjeta.cs",
+              "RelativeToolTip": "Models\\DatosTarjeta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T04:15:51.039Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ISesionUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Interfaces\\Services\\ISesionUsuario.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\ISesionUsuario.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Interfaces\\Services\\ISesionUsuario.cs",
+              "RelativeToolTip": "Interfaces\\Services\\ISesionUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T04:15:35.684Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UiHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\UiHelper.cs",
+              "RelativeDocumentMoniker": "Forms\\UiHelper.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\UiHelper.cs",
+              "RelativeToolTip": "Forms\\UiHelper.cs",
+              "ViewState": "AgIAAFEBAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T04:15:13.005Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FrmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Forms\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "..\\MAD PIA COMPLETO\\Forms\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Forms\\FrmMenuPrincipal.cs",
+              "RelativeToolTip": "..\\MAD PIA COMPLETO\\Forms\\FrmMenuPrincipal.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.224Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Forms\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "..\\MAD PIA COMPLETO\\Forms\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Forms\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\MAD PIA COMPLETO\\Forms\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.831Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.245Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\MAD PIA COMPLETO\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\appsettings.json",
+              "RelativeToolTip": "..\\MAD PIA COMPLETO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-17T07:25:09.245Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FrmUsuarios.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmUsuarios.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmUsuarios.Designer.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmUsuarios.Designer.cs",
+              "RelativeToolTip": "Forms\\FrmUsuarios.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.214Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAAL0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.214Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAANECAAAAAAAAAAAAAO0CAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.214Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.182Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ResultadoInicioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Models\\ResultadoInicioSesion.cs",
+              "RelativeDocumentMoniker": "Models\\ResultadoInicioSesion.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Models\\ResultadoInicioSesion.cs",
+              "RelativeToolTip": "Models\\ResultadoInicioSesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.229Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Interfaces\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Interfaces\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.229Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Interfaces\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "..\\MAD PIA COMPLETO\\Interfaces\\Services\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Interfaces\\Services\\IProductoService.cs",
+              "RelativeToolTip": "..\\MAD PIA COMPLETO\\Interfaces\\Services\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.229Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.229Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\MAD PIA COMPLETO\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Models\\Producto.cs",
+              "RelativeToolTip": "..\\MAD PIA COMPLETO\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.229Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Interfaces\\Repositories\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "..\\MAD PIA COMPLETO\\Interfaces\\Repositories\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Interfaces\\Repositories\\IProductoRepository.cs",
+              "RelativeToolTip": "..\\MAD PIA COMPLETO\\Interfaces\\Repositories\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.229Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FrmProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\MAD PIA COMPLETO\\Forms\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "..\\MAD PIA COMPLETO\\Forms\\FrmProductos.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmDetalleUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleUsuario.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleUsuario.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmDetalleUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmDetalleUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-11-17T07:25:09.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FrmDetallePartido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetallePartido.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetallePartido.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetallePartido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmDetallePartido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.763Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrmDetalleZona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleZona.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleZona.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleZona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmDetalleZona.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.763Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FrmDetalleEstadio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleEstadio.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleEstadio.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmDetalleEstadio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmDetalleEstadio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.768Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FrmHistorialCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmHistorialCliente.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmHistorialCliente.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmHistorialCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmHistorialCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.768Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-11-17T07:25:09.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FrmReporteOcupacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmReporteOcupacion.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmReporteOcupacion.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmReporteOcupacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmReporteOcupacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.774Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmReporteVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmReporteVentas.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmReporteVentas.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmReporteVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmReporteVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.774Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FrmFacturaci\u00F3n.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmFacturaci\u00F3n.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmFacturaci\u00F3n.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1erAvanzeMAD\\Forms\\FrmFacturaci\u00F3n.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1erAvanzeMAD\\Forms\\FrmFacturaci\u00F3n.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmVentaBoletos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmVentaBoletos.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmVentaBoletos.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmVentaBoletos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmVentaBoletos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.81Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmEstadios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmEstadios.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmEstadios.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmEstadios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmEstadios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.81Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FrmPartidos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmPartidos.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPartidos.cs",
+              "ToolTip": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmPartidos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmPartidos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.81Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pame\\Desktop\\PIA COMPLETO MAD Y PROGRA\\Forms\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:25:09.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

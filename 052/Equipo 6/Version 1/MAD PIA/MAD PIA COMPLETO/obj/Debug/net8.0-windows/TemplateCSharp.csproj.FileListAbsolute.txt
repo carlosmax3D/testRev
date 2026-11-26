@@ -1,0 +1,239 @@
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmProductos.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.inicioSesion.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmCancelaciones.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmClientes.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleCliente.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmEstadios.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmFacturación.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmHistorialCliente.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmMenuPrincipal.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmPartidos.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmRegistrarUsuario.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmReporteOcupacion.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmReporteVentas.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmUsuarios.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmVentaBoletos.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmAuditoria.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmCancelaciones.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmClientes.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleCliente.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleEstadio.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetallePartido.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleUsuario.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleZona.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmEstadios.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmFacturación.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmHistorialCliente.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmMenuPrincipal.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmPartidos.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.inicioSesion.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmProductos.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmReporteOcupacion.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmReporteVentas.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmUsuarios.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmVentaBoletos.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1erAvanzeMAD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\TemplateCSharp.exe
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmAuditoria.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmCancelaciones.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmClientes.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleCliente.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleEstadio.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetallePartido.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleUsuario.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleZona.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmEstadios.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmFacturación.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmHistorialCliente.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmMenuPrincipal.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmPartidos.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.inicioSesion.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmProductos.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmReporteOcupacion.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmReporteVentas.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmUsuarios.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmVentaBoletos.resources
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+C:\Users\hcand\Documents\Programacion avanzada\Pia de ProgAvanzada\1er Avanze de Programacion\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll

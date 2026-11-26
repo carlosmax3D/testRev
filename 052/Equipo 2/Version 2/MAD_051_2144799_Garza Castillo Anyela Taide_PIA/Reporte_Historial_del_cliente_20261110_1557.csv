@@ -1,0 +1,6 @@
+﻿"RFC","Nombre","Apellido","Folio de venta","Fecha de venta","Hora de venta","Número de boleto","Precio","Número de partido","Fecha del partido","Hora del partido","Estadio","Zona","Fila","Asiento","Total de la factura","Estatus"
+"MATT030101000","Less","Ruiz","7AA5F7B4-A526-49EB-9EB4-CC44C9A1D938","10/11/2026 0:00:00","13:20:19.7466667","5","350,00","4","13/11/2026 0:00:00","12:18:33.2342590","Estadio de Prueba","Zona General","A","02","406,00","Activa"
+"MATT030101000","Less","Ruiz","67592AAB-59C0-4C01-AF13-17394F267D1C","10/11/2026 0:00:00","11:11:22.6633333","4","650,00","1","10/12/2026 0:00:00","19:00:00","Estadio de Prueba","Zona Preferente","B","02","754,00","Activa"
+"XAXX010101000","Juan","Perez","E3FEC5B8-CB8D-414B-B39D-42C0E7EBDADD","10/11/2026 0:00:00","11:04:39.8766667","3","650,00","1","10/12/2026 0:00:00","19:00:00","Estadio de Prueba","Zona Preferente","B","01","754,00","Activa"
+"XAXX010101000","Juan","Perez","FE8116BA-D588-4F9E-9B3D-DC053E49BAED","10/11/2026 0:00:00","10:10:19.3333333","2","650,00","1","10/12/2026 0:00:00","19:00:00","Estadio de Prueba","Zona Preferente","B","01","0,00","Inactiva"
+"XAXX010101000","Juan","Perez","8E6E3602-0522-4DB8-A2CA-A9A1E6F10446","10/11/2026 0:00:00","10:05:38.6700000","1","350,00","1","10/12/2026 0:00:00","19:00:00","Estadio de Prueba","Zona General","A","02","0,00","Cancelada"

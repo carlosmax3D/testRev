@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|d:\\citlali\\2026\\cuarto semestre\\programacion avanzada\\mad_g052_ccas_vlag_pia_final\\templatebd\\forms\\ventaboletos\\frmseleccionpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\ventaboletos\\frmseleccionpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|d:\\citlali\\2026\\cuarto semestre\\programacion avanzada\\mad_g052_ccas_vlag_pia_final\\templatebd\\services\\tarjetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:services\\tarjetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|d:\\citlali\\2026\\cuarto semestre\\programacion avanzada\\mad_g052_ccas_vlag_pia_final\\templatebd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|d:\\citlali\\2026\\cuarto semestre\\programacion avanzada\\mad_g052_ccas_vlag_pia_final\\templatebd\\interfaces\\services\\itarjetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\services\\itarjetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|d:\\citlali\\2026\\cuarto semestre\\programacion avanzada\\mad_g052_ccas_vlag_pia_final\\templatebd\\interfaces\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|d:\\citlali\\2026\\cuarto semestre\\programacion avanzada\\mad_g052_ccas_vlag_pia_final\\templatebd\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|d:\\citlali\\2026\\cuarto semestre\\programacion avanzada\\mad_g052_ccas_vlag_pia_final\\templatebd\\data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|d:\\citlali\\2026\\cuarto semestre\\programacion avanzada\\mad_g052_ccas_vlag_pia_final\\templatebd\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|d:\\citlali\\2026\\cuarto semestre\\programacion avanzada\\mad_g052_ccas_vlag_pia_final\\templatebd\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|d:\\citlali\\2026\\cuarto semestre\\programacion avanzada\\mad_g052_ccas_vlag_pia_final\\templatebd\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|d:\\citlali\\2026\\cuarto semestre\\programacion avanzada\\mad_g052_ccas_vlag_pia_final\\templatebd\\interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|d:\\citlali\\2026\\cuarto semestre\\programacion avanzada\\mad_g052_ccas_vlag_pia_final\\templatebd\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSeleccionPago.cs",
+              "DocumentMoniker": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Forms\\VentaBoletos\\FrmSeleccionPago.cs",
+              "RelativeDocumentMoniker": "Forms\\VentaBoletos\\FrmSeleccionPago.cs",
+              "ToolTip": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Forms\\VentaBoletos\\FrmSeleccionPago.cs",
+              "RelativeToolTip": "Forms\\VentaBoletos\\FrmSeleccionPago.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T20:20:03.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarjetaService.cs",
+              "DocumentMoniker": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Services\\TarjetaService.cs",
+              "RelativeDocumentMoniker": "Services\\TarjetaService.cs",
+              "ToolTip": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Services\\TarjetaService.cs",
+              "RelativeToolTip": "Services\\TarjetaService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T20:07:40.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITarjetaService.cs",
+              "DocumentMoniker": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Interfaces\\Services\\ITarjetaService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\ITarjetaService.cs",
+              "ToolTip": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Interfaces\\Services\\ITarjetaService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\ITarjetaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T20:08:37.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Services\\ClienteService.cs",
+              "ToolTip": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Services\\ClienteService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:55:36.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Data\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Data\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAkwIcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:52:33.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IClienteRepository.cs",
+              "ToolTip": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:52:30.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Forms\\FrmLogin.cs",
+              "RelativeToolTip": "Forms\\FrmLogin.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:37:31.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:21:41.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAowJkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:15:51.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:15:44.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "Models\\Clientes.cs",
+              "ToolTip": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Models\\Clientes.cs",
+              "RelativeToolTip": "Models\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T01:30:03.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CITLALI\\2026\\CUARTO SEMESTRE\\Programacion avanzada\\MAD_G052_CCAS_VLAG_PIA_Final\\TemplateBD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T00:22:30.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\forms\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmventaboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmventaboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmestadios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmestadios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\forms\\frmdetalleusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetalleusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmdetalleusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetalleusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmdetallezona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetallezona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmdetallecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetallecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\interfaces\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\interfaces\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\interfaces\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\models\\resultadoiniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:models\\resultadoiniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\forms\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmpartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmpartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmfacturaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmfacturaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmhistorialcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmhistorialcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmreporteocupacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmreporteocupacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\hcand\\documents\\programacion avanzada\\pia de progavanzada\\1er avanze de programacion\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmdetalleestadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetalleestadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmdetallepartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmdetallepartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\forms\\frmcancelaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmcancelaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 245,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 34,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T21:08:24.741Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAANECAAAAAAAAAAAAAO0CAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:46:40.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAAL0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T00:02:24.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmUsuarios.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmUsuarios.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmUsuarios.Designer.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmUsuarios.Designer.cs",
+              "RelativeToolTip": "Forms\\FrmUsuarios.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T18:17:59.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmDetalleUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmDetalleUsuario.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleUsuario.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmDetalleUsuario.cs",
+              "RelativeToolTip": "Forms\\FrmDetalleUsuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T17:45:14.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmUsuarios.cs",
+              "RelativeToolTip": "Forms\\FrmUsuarios.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAAMMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T18:18:49.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmMenuPrincipal.cs",
+              "RelativeToolTip": "Forms\\FrmMenuPrincipal.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:10:17.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResultadoInicioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Models\\ResultadoInicioSesion.cs",
+              "RelativeDocumentMoniker": "Models\\ResultadoInicioSesion.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Models\\ResultadoInicioSesion.cs",
+              "RelativeToolTip": "Models\\ResultadoInicioSesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:14:46.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Interfaces\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Interfaces\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T23:51:08.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Interfaces\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Interfaces\\Services\\IProductoService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:53:20.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:20:30.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T21:08:51.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Interfaces\\Repositories\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Interfaces\\Repositories\\IProductoRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T21:01:38.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Data\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Data\\DatabaseConnection.cs",
+              "RelativeToolTip": "Data\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:42:29.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmPrincipal.cs",
+              "RelativeToolTip": "Forms\\FrmPrincipal.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T18:13:50.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmProductos.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T21:48:10.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T22:09:54.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-17T21:46:39.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmDetalleUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmDetalleUsuario.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleUsuario.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmDetalleUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmDetalleUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T00:33:15.383Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmDetallePartido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmDetallePartido.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetallePartido.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1erAvanzeMAD\\Forms\\FrmDetallePartido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\1erAvanzeMAD\\Forms\\FrmDetallePartido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T23:58:50.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmDetalleZona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmDetalleZona.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleZona.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmDetalleZona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmDetalleZona.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T23:45:33.022Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmDetalleEstadio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmDetalleEstadio.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleEstadio.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1erAvanzeMAD\\Forms\\FrmDetalleEstadio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\1erAvanzeMAD\\Forms\\FrmDetalleEstadio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T22:56:05.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmAuditoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmAuditoria.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmAuditoria.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1erAvanzeMAD\\Forms\\FrmAuditoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\1erAvanzeMAD\\Forms\\FrmAuditoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T22:13:08.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmHistorialCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmHistorialCliente.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmHistorialCliente.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1erAvanzeMAD\\Forms\\FrmHistorialCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\1erAvanzeMAD\\Forms\\FrmHistorialCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T20:36:13.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmDetalleCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmDetalleCliente.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDetalleCliente.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmDetalleCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmDetalleCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:55:15.563Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:29:07.205Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmReporteOcupacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmReporteOcupacion.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmReporteOcupacion.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1erAvanzeMAD\\Forms\\FrmReporteOcupacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\1erAvanzeMAD\\Forms\\FrmReporteOcupacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T18:23:52.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmReporteVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmReporteVentas.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmReporteVentas.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmReporteVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmReporteVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T17:45:20.602Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmCancelaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmCancelaciones.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmCancelaciones.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1erAvanzeMAD\\Forms\\FrmCancelaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\1erAvanzeMAD\\Forms\\FrmCancelaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T17:02:08.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmFacturaci\u00F3n.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmFacturaci\u00F3n.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmFacturaci\u00F3n.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1erAvanzeMAD\\Forms\\FrmFacturaci\u00F3n.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\1erAvanzeMAD\\Forms\\FrmFacturaci\u00F3n.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:59:42.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmVentaBoletos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmVentaBoletos.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmVentaBoletos.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmVentaBoletos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmVentaBoletos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T00:52:12.522Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmEstadios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmEstadios.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmEstadios.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmEstadios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmEstadios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T23:13:00.357Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T22:19:44.573Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmPartidos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmPartidos.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPartidos.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmPartidos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmPartidos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T00:04:36.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:07:02.447Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\hcand\\Documents\\Programacion avanzada\\Pia de ProgAvanzada\\1er Avanze de Programacion\\Forms\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T17:04:02.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

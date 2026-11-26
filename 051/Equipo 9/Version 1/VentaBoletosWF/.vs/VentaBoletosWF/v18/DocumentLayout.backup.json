@@ -1,0 +1,627 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formpartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formpartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formfacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formfacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|c:\\users\\usuario\\desktop\\nueva carpeta (12)\\ventaboletoswf\\ventaboletoswf\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formcancelaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formcancelaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formcancelaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formcancelaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formregistrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formregistrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formregistrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formregistrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formhistorialclientecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formhistorialclientecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formzona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formzona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formestadios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formestadios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formdisponibilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formdisponibilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formzona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formzona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formpartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formpartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formhistorialclientecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formhistorialclientecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formfacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formfacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formestadios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formestadios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formdisponibilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formdisponibilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formcancelaciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formcancelaciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formventas1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formventas1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\ventaboletoswf\\formclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0E967-62FB-41A9-A6A4-1EF2F63FD1C9}|VentaBoletosWF\\VentaBoletosWF.csproj|solutionrelative:ventaboletoswf\\formclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormMenu.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormMenu.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormMenu.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormFacturacion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormFacturacion.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormFacturacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormFacturacion.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormFacturacion.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormVentas.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormVentas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormVentas.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormVentas.cs",
+              "ViewState": "AgIAAAYCAAAAAAAAAAAuwBsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormVentas.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormVentas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentaBoletosWF\\FormVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.138Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPartidos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormPartidos.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormPartidos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormPartidos.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormPartidos.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwI0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCancelaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormCancelaciones.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormCancelaciones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormCancelaciones.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormCancelaciones.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAFgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormCancelaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormCancelaciones.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormCancelaciones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormCancelaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentaBoletosWF\\FormCancelaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.135Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormLogin.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormLogin.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormLogin.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormMenu.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentaBoletosWF\\FormMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.142Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\CLASES\\Usuario.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\CLASES\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\CLASES\\Usuario.cs",
+              "RelativeToolTip": "VentaBoletosWF\\CLASES\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:52:28.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\Form1.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\Form1.cs",
+              "RelativeToolTip": "VentaBoletosWF\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\CLASES\\Cliente.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\CLASES\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\CLASES\\Cliente.cs",
+              "RelativeToolTip": "VentaBoletosWF\\CLASES\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:51:54.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\CLASES\\Persona.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\CLASES\\Persona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\CLASES\\Persona.cs",
+              "RelativeToolTip": "VentaBoletosWF\\CLASES\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:50:20.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\Program.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\Program.cs",
+              "RelativeToolTip": "VentaBoletosWF\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormRegistroUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormRegistroUsuario.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormRegistroUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormRegistroUsuario.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormRegistroUsuario.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormRegistroUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormRegistroUsuario.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormRegistroUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormRegistroUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentaBoletosWF\\FormRegistroUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormLogin.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentaBoletosWF\\FormLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.145Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormHistorialClientecs.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormHistorialClientecs.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormHistorialClientecs.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormHistorialClientecs.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormHistorialClientecs.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\App.config",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\App.config",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\App.config",
+              "RelativeToolTip": "VentaBoletosWF\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-11T21:38:22.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormZona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormZona.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormZona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormZona.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormZona.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAUwN8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormReportes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormReportes.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormReportes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormReportes.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormReportes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormEstadios.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormEstadios.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormEstadios.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormEstadios.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormEstadios.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAmwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormDisponibilidad.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormDisponibilidad.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormDisponibilidad.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormDisponibilidad.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormDisponibilidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormDashboard.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormDashboard.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormClientes.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormClientes.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormReportes.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormReportes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormZona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormZona.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormZona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormZona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormZona.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormPartidos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormPartidos.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormPartidos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormPartidos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentaBoletosWF\\FormPartidos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.109Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormHistorialClientecs.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormHistorialClientecs.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormHistorialClientecs.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormHistorialClientecs.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormHistorialClientecs.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormFacturacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormFacturacion.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormFacturacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormFacturacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentaBoletosWF\\FormFacturacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.091Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormEstadios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormEstadios.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormEstadios.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormEstadios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormEstadios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormDisponibilidad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormDisponibilidad.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormDisponibilidad.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormDisponibilidad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormDisponibilidad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormDashboard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormDashboard.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormDashboard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormDashboard.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormClientes.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\Conexion.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\Conexion.cs",
+              "RelativeToolTip": "VentaBoletosWF\\Conexion.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormVentas1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormVentas1.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormVentas1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormVentas1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\madc\\tarea de programacion\\Nueva carpeta\\VentaBoletosWF\\VentaBoletosWF\\FormVentas1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormClientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormClientes.Designer.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormClientes.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormClientes.Designer.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormClientes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormCancelaciones.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormCancelaciones.Designer.cs",
+              "RelativeDocumentMoniker": "VentaBoletosWF\\FormCancelaciones.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (12)\\VentaBoletosWF\\VentaBoletosWF\\FormCancelaciones.Designer.cs",
+              "RelativeToolTip": "VentaBoletosWF\\FormCancelaciones.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:38:22.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

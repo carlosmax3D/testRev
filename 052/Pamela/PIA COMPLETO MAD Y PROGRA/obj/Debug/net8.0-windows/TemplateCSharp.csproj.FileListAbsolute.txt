@@ -1,0 +1,154 @@
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\App.config
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll.config
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.dev.json
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmAuditoria.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmCancelaciones.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmClientes.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleCliente.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleEstadio.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetallePartido.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleUsuario.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleZona.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmEstadios.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmFacturacion.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmHistorialCliente.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmPartidos.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmPrincipal.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmReporteOcupacion.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmReporteVentas.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmUsuarios.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmVentaBoletos.resources
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+C:\Users\Pame\Desktop\MAD_052_2163101_Alondra_Pamela_Cortes_Dorantes_PIA\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\App.config
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\TemplateCSharp.exe
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\TemplateCSharp.dll.config
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.dev.json
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmAuditoria.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmCancelaciones.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmClientes.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleCliente.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleEstadio.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetallePartido.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleUsuario.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmDetalleZona.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmEstadios.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmFacturacion.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmHistorialCliente.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmPartidos.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmPrincipal.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmReporteOcupacion.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmReporteVentas.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmUsuarios.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmVentaBoletos.resources
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+C:\Users\Pame\Desktop\PIA COMPLETO MAD Y PROGRA\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll

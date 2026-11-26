@@ -1,0 +1,88 @@
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\bin\Debug\VentaBoletosWF.exe.config
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\bin\Debug\VentaBoletosWF.exe
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\bin\Debug\VentaBoletosWF.pdb
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormClientes.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormLogin.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormMenu.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormReportes.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormVentas.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.Properties.Resources.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.exe
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.pdb
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.exe.config
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormEstadios.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormPartidos.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormRegistroUsuario.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormVentas1.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormZona.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\bin\Debug\itextsharp.xml
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBol.E4076003.Up2Date
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormCancelacion.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormDisponibilidad.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormFacturacion.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormHistorialClientes.resources
+C:\Users\Usuario\Desktop\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormDashboard.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\bin\Debug\VentaBoletosWF.exe.config
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\bin\Debug\VentaBoletosWF.exe
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\bin\Debug\VentaBoletosWF.pdb
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\bin\Debug\itextsharp.xml
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormCancelacion.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormClientes.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormDashboard.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormDisponibilidad.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormEstadios.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormFacturacion.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormHistorialClientes.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormLogin.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormMenu.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormPartidos.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormRegistroUsuario.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormReportes.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormVentas.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormVentas1.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormZona.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.Properties.Resources.resources
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBol.E4076003.Up2Date
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.exe
+C:\Users\Usuario\Desktop\madc\tarea de programacion\Nueva carpeta\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\bin\Debug\VentaBoletosWF.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\bin\Debug\VentaBoletosWF.exe
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\bin\Debug\VentaBoletosWF.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\bin\Debug\itextsharp.xml
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormCancelacion.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormClientes.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormDashboard.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormDisponibilidad.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormEstadios.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormFacturacion.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormHistorialClientes.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormLogin.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormMenu.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormPartidos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormRegistroUsuario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormReportes.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormVentas.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormVentas1.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.FormZona.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBol.E4076003.Up2Date
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.exe
+C:\Users\Usuario\Desktop\Nueva carpeta (12)\VentaBoletosWF\VentaBoletosWF\obj\Debug\VentaBoletosWF.pdb

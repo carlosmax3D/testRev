@@ -1,0 +1,118 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 4515 >>
+stream
+0.16 0.31 0.6 rg 50 702 512 44 re f
+BT /F2 20 Tf 1 1 1 rg 62 718 Td (FACTURA) Tj ET
+BT /F2 11 Tf 1 1 1 rg 440.494 728 Td (Folio: FAC-00000002) Tj ET
+BT /F1 9 Tf 1 1 1 rg 422.02 712 Td (Emisión: 24/Nov/2026 21:24 hrs) Tj ET
+0.88 0.91 0.96 rg 50 675 512 17 re f
+BT /F2 10 Tf 0.16 0.31 0.6 rg 56 680 Td (DATOS DEL EMISOR) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 658 Td (Nombre o razón social:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 658 Td (Boletos de Mexico S.A. de C.V.) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 645 Td (RFC:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 645 Td (BMX900101ABC) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 632 Td (Domicilio:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 632 Td (Av. Universidad S/N, San Nicolas de los Garza, N.L.) Tj ET
+0.88 0.91 0.96 rg 50 606 512 17 re f
+BT /F2 10 Tf 0.16 0.31 0.6 rg 56 611 Td (DATOS DEL RECEPTOR) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 589 Td (Nombre:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 589 Td (Maria Fernanda Josefa Garcia Lopez) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 576 Td (RFC:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 576 Td (GALM950312AB1) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 563 Td (Domicilio:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 563 Td (Av. Juarez 123, Col. Centro, Monterrey, N.L., C.P. 64000) Tj ET
+0.88 0.91 0.96 rg 50 537 512 17 re f
+BT /F2 10 Tf 0.16 0.31 0.6 rg 56 542 Td (DATOS DEL COMPROBANTE) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 520 Td (Folio de factura:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 520 Td (FAC-00000002) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 507 Td (Folio de compra:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 507 Td (7ABCCD48-FA41-4D86-95A5-B70100A22F7F) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 494 Td (Fecha y hora de emisión:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 494 Td (24/Nov/2026 21:24 hrs) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 481 Td (Método de pago:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 481 Td (Efectivo) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 468 Td (Estado:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 468 Td (Vigente) Tj ET
+0.88 0.91 0.96 rg 50 442 512 17 re f
+BT /F2 10 Tf 0.16 0.31 0.6 rg 56 447 Td (DETALLE DE LA COMPRA) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 425 Td (Partido:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 425 Td (Rayados vs Chivas) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 412 Td (Estadio:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 412 Td (Estadio BBVA) Tj ET
+BT /F2 9 Tf 0 0 0 rg 58 399 Td (Fecha del partido:) Tj ET
+BT /F1 9 Tf 0 0 0 rg 190 399 Td (11/Dic/2026 21:00 hrs) Tj ET
+0.16 0.31 0.6 rg 50 375 512 17 re f
+BT /F2 8 Tf 1 1 1 rg 54 380 Td (Partido) Tj ET
+BT /F2 8 Tf 1 1 1 rg 172 380 Td (Estadio) Tj ET
+BT /F2 8 Tf 1 1 1 rg 272 380 Td (Zona) Tj ET
+BT /F2 8 Tf 1 1 1 rg 337 380 Td (Asiento) Tj ET
+BT /F2 8 Tf 1 1 1 rg 414.252 380 Td (Precio unitario) Tj ET
+BT /F2 8 Tf 1 1 1 rg 478.971 380 Td (Cant.) Tj ET
+BT /F2 8 Tf 1 1 1 rg 528.982 380 Td (Importe) Tj ET
+BT /F1 8 Tf 0 0 0 rg 54 362 Td (Rayados vs Chivas) Tj ET
+BT /F1 8 Tf 0 0 0 rg 172 362 Td (Estadio BBVA) Tj ET
+BT /F1 8 Tf 0 0 0 rg 272 362 Td (Club) Tj ET
+BT /F1 8 Tf 0 0 0 rg 337 362 Td (Fila 1, asiento 1) Tj ET
+BT /F1 8 Tf 0 0 0 rg 433.416 362 Td ($1,400.00) Tj ET
+BT /F1 8 Tf 0 0 0 rg 494.552 362 Td (1) Tj ET
+BT /F1 8 Tf 0 0 0 rg 522.416 362 Td ($1,400.00) Tj ET
+0.94 0.95 0.98 rg 50 341 512 16 re f
+BT /F1 8 Tf 0 0 0 rg 54 346 Td (Rayados vs Chivas) Tj ET
+BT /F1 8 Tf 0 0 0 rg 172 346 Td (Estadio BBVA) Tj ET
+BT /F1 8 Tf 0 0 0 rg 272 346 Td (Club) Tj ET
+BT /F1 8 Tf 0 0 0 rg 337 346 Td (Fila 1, asiento 2) Tj ET
+BT /F1 8 Tf 0 0 0 rg 433.416 346 Td ($1,400.00) Tj ET
+BT /F1 8 Tf 0 0 0 rg 494.552 346 Td (1) Tj ET
+BT /F1 8 Tf 0 0 0 rg 522.416 346 Td ($1,400.00) Tj ET
+BT /F1 8 Tf 0 0 0 rg 54 330 Td (Rayados vs Chivas) Tj ET
+BT /F1 8 Tf 0 0 0 rg 172 330 Td (Estadio BBVA) Tj ET
+BT /F1 8 Tf 0 0 0 rg 272 330 Td (Club) Tj ET
+BT /F1 8 Tf 0 0 0 rg 337 330 Td (Fila 1, asiento 3) Tj ET
+BT /F1 8 Tf 0 0 0 rg 433.416 330 Td ($1,400.00) Tj ET
+BT /F1 8 Tf 0 0 0 rg 494.552 330 Td (1) Tj ET
+BT /F1 8 Tf 0 0 0 rg 522.416 330 Td ($1,400.00) Tj ET
+0.6 0.6 0.6 RG 0.7 w 50 322 m 562 322 l S
+BT /F1 10 Tf 0 0 0 rg 360.6 302 Td (Cantidad de boletos:) Tj ET
+BT /F1 10 Tf 0 0 0 rg 552.44 302 Td (3) Tj ET
+BT /F1 10 Tf 0 0 0 rg 412.3 286 Td (Subtotal:) Tj ET
+BT /F1 10 Tf 0 0 0 rg 513.52 286 Td ($4,200.00) Tj ET
+BT /F1 10 Tf 0 0 0 rg 403.19 270 Td (IVA \(16%\):) Tj ET
+BT /F1 10 Tf 0 0 0 rg 521.86 270 Td ($672.00) Tj ET
+0.6 0.6 0.6 RG 0.7 w 362 262 m 562 262 l S
+BT /F2 12 Tf 0 0 0 rg 404.366 246 Td (TOTAL:) Tj ET
+BT /F2 12 Tf 0 0 0 rg 504.624 246 Td ($4,872.00) Tj ET
+0.6 0.6 0.6 RG 0.7 w 50 62 m 562 62 l S
+BT /F1 8 Tf 0.35 0.35 0.35 rg 50 48 Td (Documento generado por el sistema de venta de boletos. Conserve su folio de compra para cualquier aclaración.) Tj ET
+
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000348 00000 n 
+0000000450 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5017
+%%EOF

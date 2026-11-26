@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\services\\tipousuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:services\\tipousuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\utilities\\opcioncombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:utilities\\opcioncombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\interfaces\\services\\itipousuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\services\\itipousuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\interfaces\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\interfaces\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\data\\repositories\\tipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:data\\repositories\\tipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\interfaces\\repositories\\itipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\repositories\\itipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\models\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:models\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\interfaces\\repositories\\ipermisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:interfaces\\repositories\\ipermisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\data\\repositories\\permisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:data\\repositories\\permisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|c:\\users\\jesse\\downloads\\pa_gpo052_equipo2_1er avance\\templatebd\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3E632-2D25-BD48-D345-1C8DED3C7CCC}|TemplateCSharp.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Forms\\FrmLogin.cs",
+              "RelativeToolTip": "Forms\\FrmLogin.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAswHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:24:05.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Forms\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:24:00.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:16:35.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Services\\TipoUsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\TipoUsuarioService.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Services\\TipoUsuarioService.cs",
+              "RelativeToolTip": "Services\\TipoUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:16:04.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITipoUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Interfaces\\Services\\ITipoUsuarioService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\ITipoUsuarioService.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Interfaces\\Services\\ITipoUsuarioService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\ITipoUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:14:58.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TipoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Models\\TipoUsuario.cs",
+              "RelativeDocumentMoniker": "Models\\TipoUsuario.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Models\\TipoUsuario.cs",
+              "RelativeToolTip": "Models\\TipoUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:10:19.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Interfaces\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Interfaces\\Services\\IProductoService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:57:34.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITipoUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Interfaces\\Repositories\\ITipoUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\ITipoUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Interfaces\\Repositories\\ITipoUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\ITipoUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:56:20.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Data\\Repositories\\TipoUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\TipoUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Data\\Repositories\\TipoUsuarioRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\TipoUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:50:28.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPermisoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Interfaces\\Repositories\\IPermisoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IPermisoRepository.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Interfaces\\Repositories\\IPermisoRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IPermisoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:38:17.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Forms\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Forms\\FrmPrincipal.cs*",
+              "RelativeToolTip": "Forms\\FrmPrincipal.cs*",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAuwGMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T06:40:47.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PermisoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Data\\Repositories\\PermisoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PermisoRepository.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Data\\Repositories\\PermisoRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PermisoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T06:05:43.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T05:37:58.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Interfaces\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Interfaces\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T05:37:47.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T05:37:06.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0BAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T05:30:04.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OpcionCombo.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Utilities\\OpcionCombo.cs",
+              "RelativeDocumentMoniker": "Utilities\\OpcionCombo.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Utilities\\OpcionCombo.cs",
+              "RelativeToolTip": "Utilities\\OpcionCombo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T03:37:00.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T22:55:28.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Forms\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Forms\\FrmUsuarios.cs*",
+              "RelativeToolTip": "Forms\\FrmUsuarios.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T00:30:06.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Forms\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Forms\\FrmUsuarios.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Forms\\FrmUsuarios.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T00:22:32.716Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Forms\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\jesse\\Downloads\\PA_Gpo052_Equipo2_1er Avance\\TemplateBD\\Forms\\FrmPrincipal.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Forms\\FrmPrincipal.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T00:22:17.442Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

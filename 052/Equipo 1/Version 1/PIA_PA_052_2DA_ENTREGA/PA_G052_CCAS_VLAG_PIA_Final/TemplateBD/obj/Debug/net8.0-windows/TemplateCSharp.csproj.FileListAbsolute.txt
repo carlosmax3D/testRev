@@ -1,0 +1,1067 @@
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con funcionalidad botones\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCheckCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmConfirmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmDetalleCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClienteGuardado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClientes.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmEliminarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientosRegistrados.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionAsiento.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionEstadio.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionZona.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmEstadios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmZonas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmMensajeFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Menu.FrmMenu.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmConfirmacionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmEquipos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmPartidos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCompras.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteOcupacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteVentas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmEliminarUsuario.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarioCreado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmBuscarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmCompletadaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmConfirmaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionBoletos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPago.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\appsettings.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla prueba de escritorio\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\appsettings.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCheckCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmConfirmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmDetalleCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClienteGuardado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClientes.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmEliminarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientosRegistrados.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionAsiento.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionEstadio.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionZona.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmEstadios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmZonas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmMensajeFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Menu.FrmMenu.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmConfirmacionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmEquipos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmPartidos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCompras.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteOcupacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteVentas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmEliminarUsuario.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarioCreado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmBuscarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmCompletadaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmConfirmaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionBoletos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPago.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PIA\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCancelacion.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCheckCancelacion.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmConfirmCancelacion.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmDetalleCancelacion.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClienteGuardado.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClientes.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmEliminarCliente.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientos.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientosRegistrados.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionAsiento.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionEstadio.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionZona.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmEstadios.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmZonas.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmFactura.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmMensajeFactura.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Menu.FrmMenu.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmConfirmacionPartido.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmEquipos.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmPartidos.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCliente.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCompras.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteOcupacion.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteVentas.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmEliminarUsuario.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarioCreado.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarios.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmBuscarCliente.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmCompletadaVenta.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmConfirmaVenta.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionBoletos.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPago.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPartido.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\appsettings.json
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCancelacion.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCheckCancelacion.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmConfirmCancelacion.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmDetalleCancelacion.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClienteGuardado.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClientes.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmEliminarCliente.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientos.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientosRegistrados.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionAsiento.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionEstadio.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionZona.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmEstadios.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmZonas.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmFactura.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmMensajeFactura.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Menu.FrmMenu.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmConfirmacionPartido.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmEquipos.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmPartidos.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCliente.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCompras.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteOcupacion.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteVentas.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmEliminarUsuario.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarioCreado.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarios.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmBuscarCliente.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmCompletadaVenta.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmConfirmaVenta.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionBoletos.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPago.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPartido.resources
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+D:\CITLALI\2026\PROGRA PIA-DOMINGO24\Plantilla con prueba de navegacion pt2\Plantilla con prueba de navegacion\Plantilla con prueba de navegacion\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\appsettings.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCheckCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmConfirmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmDetalleCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClienteGuardado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClientes.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmEliminarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientosRegistrados.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionAsiento.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionEstadio.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionZona.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmEstadios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmZonas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmMensajeFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Menu.FrmMenu.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmConfirmacionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmEquipos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmPartidos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCompras.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteOcupacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteVentas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmEliminarUsuario.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarioCreado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmBuscarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmCompletadaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmConfirmaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionBoletos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPago.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\LILLY-CONGESTION DE USUARIOS\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\appsettings.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCheckCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmConfirmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmDetalleCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClienteGuardado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClientes.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmEliminarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientosRegistrados.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionAsiento.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionEstadio.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionZona.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmEstadios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmZonas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmMensajeFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Menu.FrmMenu.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmConfirmacionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmEquipos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmPartidos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCompras.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteOcupacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteVentas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmEliminarUsuario.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarioCreado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmBuscarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmCompletadaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmConfirmaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionBoletos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPago.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\PA_052_2169531_CCAS_2094846_VLAG_1A_C#\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\appsettings.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCheckCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmConfirmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmDetalleCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClienteGuardado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClientes.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmEliminarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientosRegistrados.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionAsiento.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionEstadio.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionZona.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmEstadios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmZonas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmMensajeFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Menu.FrmMenu.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmConfirmacionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmEquipos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmPartidos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCompras.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteOcupacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteVentas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmEliminarUsuario.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarioCreado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmBuscarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmCompletadaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmConfirmaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionBoletos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPago.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-1ercambio\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\appsettings.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCheckCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmConfirmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmDetalleCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClienteGuardado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClientes.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmEliminarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientosRegistrados.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionAsiento.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionEstadio.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionZona.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmEstadios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmZonas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmMensajeFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Menu.FrmMenu.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmConfirmacionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmEquipos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmPartidos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCompras.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteOcupacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteVentas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmEliminarUsuario.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarioCreado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmBuscarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmCompletadaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmConfirmaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionBoletos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPago.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCancelacion.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCheckCancelacion.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmConfirmCancelacion.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmDetalleCancelacion.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClienteGuardado.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClientes.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmEliminarCliente.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientos.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientosRegistrados.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionAsiento.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionEstadio.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionZona.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmEstadios.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmZonas.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmFactura.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmMensajeFactura.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Menu.FrmMenu.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmConfirmacionPartido.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmEquipos.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmPartidos.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCliente.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCompras.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteOcupacion.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteVentas.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmEliminarUsuario.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarioCreado.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarios.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmBuscarCliente.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmCompletadaVenta.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmConfirmaVenta.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionBoletos.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPago.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPartido.resources
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+C:\Users\valer\source\repos\VENTANAS PIA BOLETOS\0PROGRAMA\ParaSegundoaAvance-BACKEND\ParaSegundoaAvance-BACKEND\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.PagoTarjeta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\appsettings.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCheckCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmConfirmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmDetalleCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClienteGuardado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClientes.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmEliminarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientosRegistrados.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionAsiento.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionEstadio.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionZona.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmEstadios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmZonas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmMensajeFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Menu.FrmMenu.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmConfirmacionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmEquipos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmPartidos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCompras.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteOcupacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteVentas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmEliminarUsuario.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarioCreado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmBuscarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmCompletadaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmConfirmaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionBoletos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPago.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.PagoTarjeta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\TemplateBD, parte final lilys\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\appsettings.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.exe
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.deps.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.runtimeconfig.json
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.AssemblyReference.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmCheckCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmConfirmCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Cancelaciones.FrmDetalleCancelacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClienteGuardado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmClientes.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Clientes.FrmEliminarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmAsientosRegistrados.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionAsiento.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionEstadio.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmConfirmacionZona.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmEstadios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Estadios.FrmZonas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Facturacion.FrmMensajeFactura.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.FrmLogin.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Menu.FrmMenu.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmConfirmacionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmEquipos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Partidos.FrmPartidos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmHistorialCompras.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteOcupacion.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Reportes.FrmReporteVentas.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmEliminarUsuario.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarioCreado.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.Usuarios.FrmUsuarios.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmBuscarCliente.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmCompletadaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmConfirmaVenta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionBoletos.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPago.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.FrmSeleccionPartido.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.Forms.VentaBoletos.PagoTarjeta.resources
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.GenerateResource.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfoInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.AssemblyInfo.cs
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.csproj.CoreCompileInputs.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\Template.6E913FD2.Up2Date
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\refint\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.pdb
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\TemplateCSharp.genruntimeconfig.cache
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\obj\Debug\net8.0-windows\ref\TemplateCSharp.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\CITLALI\2026\CUARTO SEMESTRE\Programacion avanzada\MAD_G052_CCAS_VLAG_PIA_Final\TemplateBD\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll

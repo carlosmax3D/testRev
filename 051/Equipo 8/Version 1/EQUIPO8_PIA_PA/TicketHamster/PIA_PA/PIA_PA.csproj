@@ -1,0 +1,123 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Comun\appsettings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Comun\appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="7.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="10.0.14" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="10.0.14" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="10.0.14" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.14" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Menus\Cancelaciones\Nueva.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Cancelaciones\Historial.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Empleados\AgregarEmpleado.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Empleados\ConsultarEmpleado.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Empleados\DesactivarEmpleado.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Empleados\ModificarEmpleado.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Reportes\Ocupacion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Reportes\Cliente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Reportes\Cancelaciones.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Reportes\Partidos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Reportes\Ventas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Usuarios\AgregarUsuario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Usuarios\ConsultarUsuario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Usuarios\DesactivarUsuario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Usuarios\ModificarUsuario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Clientes\AgregarCliente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Clientes\ConsultarCliente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Clientes\DesactivarCliente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Clientes\ModificarCliente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Equipos\AgregarEquipo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Equipos\ConsultarEquipo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Equipos\EliminarEquipo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Equipos\ModificarEquipo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Estadios\AgregarEstadio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Estadios\EliminarEstadio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Estadios\ConsultarEstadio.cs" />
+    <Compile Update="Menus\Estadios\ModificarEstadio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Boletos\AgregarPrecioBoleto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Boletos\ConsultarBoleto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Ventas\AgregarVenta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menus\Ventas\ConsultarVenta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ximem\\OneDrive\\Desktop\\PIA_MAD_052\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\conexionbd\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\conexionbd\\accesousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\edicionvb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\pantalla_motivocancelacionvb_pia_pa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\conductaope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\edicioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\menucliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\menucliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\historialcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\historialcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\edicioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\registroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\dclientes_escogio_registrarclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\dclientes_escogio_registrarclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD213B9-11B9-9254-A680-D20272165246}|..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_InicioSesion_PIA_PA.csproj|c:\\users\\ximem\\onedrive\\desktop\\copia_pantalla_iniciosesion_pia_pa\\conexionbd\\vistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "registroUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\registroUsuario.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\registroUsuario.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\registroUsuario.cs",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\registroUsuario.cs",
+              "ViewState": "AgIAAD4CAAAAAAAAAAAAwFICAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T21:02:52.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "registroUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\registroUsuario.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\registroUsuario.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\registroUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\registroUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T21:02:50.657Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "accesoUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\conexionBD\\accesoUsuarios.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\conexionBD\\accesoUsuarios.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\conexionBD\\accesoUsuarios.cs",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\conexionBD\\accesoUsuarios.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAQwN0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T20:48:41.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "edicionVB.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\edicionVB.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\edicionVB.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\edicionVB.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\edicionVB.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T20:35:31.617Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pantalla_MotivoCancelacionVB_PIA_PA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_MotivoCancelacionVB_PIA_PA.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_MotivoCancelacionVB_PIA_PA.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_MotivoCancelacionVB_PIA_PA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\Pantalla_MotivoCancelacionVB_PIA_PA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T20:33:49.226Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "conductaOpe.cs",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\conductaOpe.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\conductaOpe.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\conductaOpe.cs",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\conductaOpe.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAIwC0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T00:38:27.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "menuCliente.cs",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\menuCliente.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\menuCliente.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\menuCliente.cs",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\menuCliente.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T00:10:44.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "menuCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\menuCliente.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\menuCliente.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\menuCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\menuCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T00:05:53.396Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "historialCliente.cs",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\historialCliente.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\historialCliente.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\historialCliente.cs",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\historialCliente.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAQwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T00:01:57.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "menuAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\menuAdmin.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\menuAdmin.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\menuAdmin.cs",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\menuAdmin.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAYwDcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T23:59:48.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "menuAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\menuAdmin.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\menuAdmin.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\menuAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\menuAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T23:59:46.729Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "edicionCliente.cs",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\edicionCliente.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\edicionCliente.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\edicionCliente.cs",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\edicionCliente.cs",
+              "ViewState": "AgIAAM4DAAAAAAAAAAAIwNkDAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T23:54:59.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "edicionCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\edicionCliente.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\edicionCliente.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\edicionCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\edicionCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T23:54:57.305Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "historialCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\historialCliente.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\historialCliente.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\historialCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\historialCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T23:54:17.766Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "registroClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\registroClientes.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\registroClientes.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\registroClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\registroClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T23:53:15.51Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dclientes_escogio_registrarclient.cs",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\dclientes_escogio_registrarclient.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\dclientes_escogio_registrarclient.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\dclientes_escogio_registrarclient.cs",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\dclientes_escogio_registrarclient.cs",
+              "ViewState": "AgIAACQDAAAAAAAAAAAYwDsDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T23:52:06.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dclientes_escogio_registrarclient.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\dclientes_escogio_registrarclient.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\dclientes_escogio_registrarclient.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\dclientes_escogio_registrarclient.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\dclientes_escogio_registrarclient.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T23:52:03.509Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "vistas.cs",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\conexionBD\\vistas.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\conexionBD\\vistas.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\conexionBD\\vistas.cs",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\conexionBD\\vistas.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAqwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:09:03.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "conexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\conexionBD\\conexionBD.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\conexionBD\\conexionBD.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\conexionBD\\conexionBD.cs",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\conexionBD\\conexionBD.cs",
+              "ViewState": "AgIAAMsEAAAAAAAAAAAAwNYEAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T21:10:32.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inicioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\inicioSesion.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\inicioSesion.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\inicioSesion.cs",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\inicioSesion.cs",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAzwG0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T21:04:51.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "inicioSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\inicioSesion.cs",
+              "RelativeDocumentMoniker": "..\\copia_Pantalla_InicioSesion_PIA_PA\\inicioSesion.cs",
+              "ToolTip": "C:\\Users\\ximem\\OneDrive\\Desktop\\copia_Pantalla_InicioSesion_PIA_PA\\inicioSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\copia_Pantalla_InicioSesion_PIA_PA\\inicioSesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T19:58:23.637Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 126,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
