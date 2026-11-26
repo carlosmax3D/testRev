@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="adv_cliente_ya_regist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="busquedaCompraClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="comprobanteFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="conductaOpe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dbusqclient_client_no_encontrado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dbusqclient_client_ya_regist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dclientes_escogio_buscarclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dclientes_escogio_registrarclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dmenu_escogio_clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dmenu_escogio_ev_geren.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dmenu_escogio_reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dmenu_escogio_venta_bol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="edicionCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="edicionVB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eleccion_metodo_d_pago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eligio_reporte_oc_y_disp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eligio_reporte_ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ev_geren_guardada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="guardarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="historialCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="historialCompraCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="historialUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menuCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="facturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menuUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menu_principal_operador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="most_conf_d_compra_p_vb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pago_c_efectivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pago_c_tcredito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pago_c_tdebito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pago_efect_c_cambio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pago_efect_sin_cambio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pago_tarjeta_deb_o_cred.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pantalla_catalogosRegistrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pantalla_editarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pantalla_menucatalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantalla_MotivoCancelacionVB_PIA_PA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pantalla_registrocatalogos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="p_tcredito_exitoso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="p_tdebito_exitoso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registroAsientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registroClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registroEstadio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registroPartido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registroVentaBoletos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registroZona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="selec_asientos_disp_p_vb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="selec_cant_bolet_p_vb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="selec_filas_disp_p_vb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="selec_partido_p_vb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="selec_zona_p_vb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ticket_p_ir_a_pagar_vb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
