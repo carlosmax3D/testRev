@@ -1,0 +1,52 @@
+﻿using PIA.Datos;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+
+
+namespace PIA
+{
+	public partial class UcCardPartido : UserControl
+	{
+		private int _idPartido;
+		private vw_Partidos? _partido;
+		public event Action<vw_Partidos>? PartidoElegido;
+
+		public UcCardPartido()
+		{
+			InitializeComponent();
+			btnVenta.Click += btnVenta_Click;
+		}
+
+		//=======================================================
+		// Carga en la tarjeta los datos y la imagen del partido.
+		//=======================================================
+		public void CargarPartido(vw_Partidos partido)
+		{
+			_partido = partido;
+			_idPartido = partido.IdPartido;
+
+			lblEquipoLocalInCard.Text = partido.EquipoLocal;
+			lblEquipoVisitanteInCard.Text = partido.EquipoVisitante;
+			lblFechaHoraInCard.Text = partido.FechaHora.ToString("dd/MM/yyyy HH:mm");
+			lblEstadioInCard.Text = partido.Estadio;
+			lblDisponibilidadInCard.Text =
+				$"{partido.BoletosDisponibles} boletos disponibles";
+		}
+
+		//===============================================================
+		// Abre el flujo de venta para el partido mostrado en la tarjeta.
+		//===============================================================
+		private void btnVenta_Click(object sender, EventArgs e)
+		{
+			if (_partido is not null){
+				PartidoElegido?.Invoke(_partido);
+			}
+
+		}
+	}
+}
